@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nombre_app">Калькулятор</string>
+    <string name="bienvenida">Счёт, перевод величин, человек, космос и физические константы.</string>
+    <string name="titulo_tarjeta">Режимы</string>
+    <string name="texto_tarjeta">Выберите режим на верхней панели.</string>
+    <string name="boton">Открыть</string>
+    <string name="sin_toques">Готово к работе.</string>
+    <plurals name="toques">
+        <item quantity="one">Одно касание.</item>
+        <item quantity="other">%d касаний.</item>
+    </plurals>
+</resources>
